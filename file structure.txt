@@ -1,0 +1,29 @@
+C:\Users\ghosh
+│
+└── OneDrive
+    │
+    └── Desktop
+        │
+        └── PythonProject6
+            │
+            ├── .idea
+            ├── .venv
+            │
+            ├── NEO
+            │   ├── .env
+            │   ├── api_server.py
+            │   └── NEO1.py
+            │
+            ├── node_backend
+            │   └── server.js
+            │
+            ├── react_backend
+            │   ├── node_modules
+            │   ├── public
+            │   ├── src
+            │   ├── .gitignore
+            │   ├── package.json
+            │   ├── package-lock.json
+            │   └── README.md
+            │
+            └── Scratches
